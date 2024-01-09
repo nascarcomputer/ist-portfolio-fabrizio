@@ -14,5 +14,5 @@ git push
 
 I love Among Us! :wink:
 
-![Chase Elliott Car](newsnow.com/wp-content/uploads/sites/14/2022/05/03c36b462045459f88efcb0ac71c2b6a.jpg?w=2560&h=1440&crop=1)
+![Chase Elliott Car](https://d1moysbdfluzeo.cloudfront.net/uploads/production/9C23-Napa0001_230228_131253.png)
 NASCAR is best sport :stuck_out_tongue_winking_eye:
