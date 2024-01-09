@@ -9,3 +9,7 @@ git add .
 git commit -m "Commit message"
 git push
 ```
+
+![Among Us Character](https://wiki.gbl.gg/images/d/d1/Among-Us-Red-Crewmate.png)
+
+I love Among Us! :wink:
