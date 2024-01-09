@@ -14,5 +14,5 @@ git push
 
 I love Among Us! :wink:
 
-[Chase Elliott Car](https://www.nascar.com/wp-content/uploads/sites/7/2023/12/05/9C24-NAPA0012-1.png)
+![Chase Elliott Car](https://www.nascar.com/wp-content/uploads/sites/7/2023/12/05/9C24-NAPA0012-1.png)
 NASCAR is best sport :stuck_out_tongue_winking_eye:
